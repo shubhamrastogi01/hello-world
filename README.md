@@ -1,2 +1,7 @@
-# hello-world
-printing hello world using c++
+#include<iostream>
+  using namespace std;
+  int main()
+  {
+    cout<<"Hello world";
+    return 0;
+  }
